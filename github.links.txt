@@ -1,0 +1,7 @@
+My contact:https://github.com/vaibhavpathave/cv/blob/master/My%20Contact.html
+
+hobbies:https://github.com/vaibhavpathave/cv/blob/master/My%20Contact.html
+
+thankyou:https://github.com/vaibhavpathave/cv/blob/master/Thankyou.html
+
+index.html: https://github.com/vaibhavpathave/cv/blob/master/index.html
